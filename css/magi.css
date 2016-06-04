@@ -1,0 +1,110 @@
+#header {
+	background-color: rgba(114,43,4,1);
+	border-bottom: 3px white double;
+}
+#photoHeader {
+	background-color: rgba(114,43,4,1);
+}
+h1 {
+	color: white;
+	font-family: 'PT Serif', serif;
+	padding: 2em 0 0 0;
+	text-align: center;
+	font-size: 3.5em;
+}
+h2 {
+	color: white;
+	font-family: 'PT Serif', serif;
+	font-size: 1.5em;
+	padding: 0 0 5% 0;
+	text-align: center;
+}
+h3 {
+	font-size: 2.4em;
+}
+.social {
+	height: 56px;
+}
+
+#purchaseLinks {
+	/*padding: 1em;*/
+}
+.socialIcons {
+	width: 70px;
+	padding: 0 1em 0 1em;
+	/*margin-top: -2.5em;*/
+}
+/*Purchase icons padding in queries below*/
+.purchaseIcons {
+	width: 60px;
+	padding: 1em 1em 0 1em;
+}
+#darkStarImg {
+	width: 90%;
+}
+#darkStarPos {
+	text-align: center;
+}
+#darkStarDiv {
+	background-color: rgb(255,245,226);	
+	border-top: 3px double rgba(114,41,4,1);
+	border-bottom: 3px double rgba(114,41,4,1);
+	padding: 1em;
+}
+#description {
+	padding: 0 2em 0 2em;
+}
+#social {
+	/*padding: 1em;*/
+}
+
+#footer {
+	background-color: rgba(114,43,4,1);
+	color: white;
+	height: 100px;
+	border-top: 3px double white;
+	/*padding-top: 2em;*/
+}
+#footLinks {
+	padding-top: 2em;
+}
+/*.listIndent1 {
+	margin-left: 40%;
+}
+.listIndent3 {
+	margin-left: 38%;
+}*/
+
+
+/* SHARED QUERIES ARE LOCATED ON SKELETON CSS (headers/footers,etc) */
+/* Larger than mobile */
+@media (min-width: 400px) {
+
+}
+
+/* Larger than phablet (also point when grid becomes active) */
+@media (min-width: 550px) {
+	
+}
+
+/* Larger than tablet */
+@media (min-width: 750px) {
+	.purchaseIcons {
+		padding: 1em 1em 0 1em;
+	}
+}
+
+/* Larger than desktop */
+@media (min-width: 1000px) {
+	.purchaseIcons {
+	padding: 1em 1em 0 1em;
+	}
+
+}
+
+/* Larger than Desktop HD */
+@media (min-width: 1200px) {
+	.purchaseIcons {
+		padding: 1em 1em 0 1em;
+	}
+}
