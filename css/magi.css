@@ -1,5 +1,9 @@
+body {
+	background-color: lightgray;
+}
 #header {
-	background-color: rgba(114,43,4,1);
+	/*background-color: rgba(114,43,4,1);*/
+	background-color: #67666b;
 	border-bottom: 3px white double;
 }
 #photoHeader {
@@ -40,15 +44,19 @@ h3 {
 	padding: 1em 1em 0 1em;
 }
 #darkStarImg {
-	width: 90%;
+	/* width was 90% from last edit. Adjusted pic to even height to div */
+	width: 60%;
 }
 #darkStarPos {
 	text-align: center;
 }
 #darkStarDiv {
-	background-color: rgb(255,245,226);	
+	/*background-color: rgb(255,245,226);	*/
+	background-color: #031424;
+	color: #ddd;
 	border-top: 3px double rgba(114,41,4,1);
-	border-bottom: 3px double rgba(114,41,4,1);
+	/*border-bottom: 3px double rgba(114,41,4,1);*/
+	border-bottom: 3px double white;
 	padding: 1em;
 }
 #description {
@@ -57,13 +65,21 @@ h3 {
 #social {
 	/*padding: 1em;*/
 }
+#fadingMoonsDiv {
+	background-color: #30415d;
+}
 
 #footer {
-	background-color: rgba(114,43,4,1);
-	color: white;
+	/*background-color: rgba(114,43,4,1);*/
+	background-color: #5a5863;
+	/*color: white;*/
+	/*color: #cf6766;*/
 	height: 100px;
 	border-top: 3px double white;
 	/*padding-top: 2em;*/
+}
+#footer a {
+	color: #ddd;
 }
 #footLinks {
 	padding-top: 2em;
