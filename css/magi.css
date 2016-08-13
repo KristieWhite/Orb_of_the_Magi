@@ -79,7 +79,9 @@ h3 {
 	padding: 1em;
 	color: #e2cd58;
 }
-
+.noWrap {
+	white-space: nowrap;
+}
 #footer {
 	/*background-color: rgba(114,43,4,1);*/
 	background-color: #5a5863;
