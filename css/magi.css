@@ -5,6 +5,8 @@ body {
 	/*background-color: rgba(114,43,4,1);*/
 	background-color: #67666b;
 	border-bottom: 3px white double;
+	border-left: 2em dotted #293948;
+	border-right: 2em dotted #293948;
 }
 #photoHeader {
 	background-color: rgba(114,43,4,1);
@@ -12,7 +14,7 @@ body {
 h1 {
 	color: white;
 	font-family: 'PT Serif', serif;
-	padding: 2em 0 0 0;
+	padding: 1.7em 0 0 0;
 	text-align: center;
 	font-size: 3.5em;
 }
