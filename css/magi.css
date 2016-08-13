@@ -59,37 +59,40 @@ h3 {
 	border-bottom: 3px double white;
 	padding: 1em;
 }
-#description {
+#descriptionStar {
 	padding: 0 2em 0 2em;
 }
-#social {
-	/*padding: 1em;*/
-}
+
 #fadingMoonsDiv {
 	background-color: #30415d;
+	color: #ddd;
+}
+#fadingMoonsImg {
+	width: 60%;
+}
+#descriptionMoons {
+	padding: 0 2em 0 2em;
+}
+.cursivePurchase a {
+	font-family: 'Seaweed Script', cursive;
+	font-size: 2em;
+	padding: 1em;
+	color: #e2cd58;
 }
 
 #footer {
 	/*background-color: rgba(114,43,4,1);*/
 	background-color: #5a5863;
-	/*color: white;*/
-	/*color: #cf6766;*/
 	height: 100px;
 	border-top: 3px double white;
-	/*padding-top: 2em;*/
 }
 #footer a {
-	color: #ddd;
+	color: #eee;
 }
 #footLinks {
 	padding-top: 2em;
 }
-/*.listIndent1 {
-	margin-left: 40%;
-}
-.listIndent3 {
-	margin-left: 38%;
-}*/
+
 
 
 /* SHARED QUERIES ARE LOCATED ON SKELETON CSS (headers/footers,etc) */
