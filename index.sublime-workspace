@@ -1,0 +1,610 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"col",
+				"color"
+			],
+			[
+				"text",
+				"text-shadow"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"position",
+				"object-position"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"r",
+				"repeat"
+			],
+			[
+				"proj",
+				"proj6Desc"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"api",
+				"api_key"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"blac",
+				"blackChalkBoard"
+			],
+			[
+				"gr",
+				"greenChalkBoard"
+			],
+			[
+				"ch",
+				"greenChalkBoard"
+			],
+			[
+				"Back",
+				"background-color"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"addEv",
+				"addEventBtn"
+			],
+			[
+				"event",
+				"eventToDom"
+			],
+			[
+				"add",
+				"addEventButton"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"Event",
+				"EventListCollection"
+			],
+			[
+				"click",
+				"clickOnEvent"
+			],
+			[
+				"Ev",
+				"EventCollection"
+			],
+			[
+				"parse",
+				"parseEventListResponse"
+			],
+			[
+				"student",
+				"studentsDiv"
+			],
+			[
+				"Stud",
+				"StudentCollection"
+			],
+			[
+				"h",
+				"homeworkListObj"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"HwDetailPa",
+				"HwDetailParentCollection"
+			],
+			[
+				"HwPar",
+				"HwParentViewCollection"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"schoolEv",
+				"schoolEventsDetailObj"
+			],
+			[
+				"eventsListTeach",
+				"eventsListTeacherHTML"
+			],
+			[
+				"eventsList",
+				"eventsListTeacherHTML"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"repeat",
+				"repeat-x"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"eventsListTeacher",
+				"eventsListTeacherTemplate"
+			],
+			[
+				"Even",
+				"EventsTeacherModel"
+			],
+			[
+				"hwPar",
+				"hwParentViewModel"
+			],
+			[
+				"teac",
+				"teacherClassesObj"
+			],
+			[
+				"teacher",
+				"teacherClassesHTML"
+			],
+			[
+				"classes",
+				"classesTemplate"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"token",
+				"token"
+			],
+			[
+				"ToDo",
+				"ToDoList"
+			],
+			[
+				"toDo",
+				"ToDoListItem"
+			],
+			[
+				"colle",
+				"collections"
+			],
+			[
+				"toD",
+				"ToDoListItem"
+			],
+			[
+				"to",
+				"ToDoListItem"
+			],
+			[
+				"pars",
+				"parse-credentials"
+			],
+			[
+				"t",
+				"this"
+			],
+			[
+				"l",
+				"logInFields"
+			],
+			[
+				"Conta",
+				"ContactsCollections"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"y",
+				"yourSign"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 167.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Kristie/Documents/ROOT FOLDERS/DietList/main.css",
+		"/Users/Kristie/Documents/ROOT FOLDERS/DietList/index.html",
+		"/Users/Kristie/Documents/ROOT FOLDERS/DietList/.gitignore",
+		"/Users/Kristie/Documents/ROOT FOLDERS/IDF_Codes/index.html",
+		"/Users/Kristie/Documents/ROOT FOLDERS/IDF_Codes/disposition_quiz.html",
+		"/Users/Kristie/Documents/ROOT FOLDERS/IDF_Codes/phonetic_quiz.html",
+		"/Users/Kristie/Documents/ROOT FOLDERS/IDF_Codes/idf_quiz.html",
+		"/Users/Kristie/Documents/ROOT FOLDERS/IDF_Codes/js/disposition_quiz.js",
+		"/Users/Kristie/Documents/ROOT FOLDERS/IDF_Codes/js/idf_quiz.js",
+		"/Users/Kristie/Documents/ROOT FOLDERS/IDF_Codes/css/dispositions.css",
+		"/Users/Kristie/Documents/ROOT FOLDERS/IDF_Codes/phonetic.html",
+		"/Users/Kristie/Documents/ROOT FOLDERS/IDF_Codes/dispositions.html",
+		"/Users/Kristie/Documents/ROOT FOLDERS/IDF_Codes/css/idf.css",
+		"/Users/Kristie/Documents/ROOT FOLDERS/IDF_Codes/js/idf.js",
+		"/Users/Kristie/Documents/ROOT FOLDERS/IDF_Codes/idf.html",
+		"/Users/Kristie/Documents/ROOT FOLDERS/IDF_Codes/js/dispositions.js",
+		"/Users/Kristie/Documents/ROOT FOLDERS/IDF_Codes/readme.md",
+		"/Users/Kristie/Documents/ROOT FOLDERS/IDF_Codes/css/main.css",
+		"/Users/Kristie/Documents/ROOT FOLDERS/IDF_Codes/css/disposition_quiz.css",
+		"/Users/Kristie/Documents/ROOT FOLDERS/IDF_Codes/js/phonetic.js",
+		"/Users/Kristie/Documents/ROOT FOLDERS/IDF_Codes/css/phonetic.css",
+		"/Users/Kristie/Documents/ROOT FOLDERS/IDF_Codes/js/phonetic_quiz.js",
+		"/Users/Kristie/Documents/ROOT FOLDERS/Portfolio_City-Art/css/skeleton.css",
+		"/Users/Kristie/Documents/ROOT FOLDERS/Portfolio_City-Art/index.html",
+		"/Users/Kristie/Documents/ROOT FOLDERS/DennisDurfey/readme.md",
+		"/Users/Kristie/Documents/ROOT FOLDERS/IDF_Codes/css/phonetic_quiz.css",
+		"/Users/Kristie/Documents/ROOT FOLDERS/IDF_Codes/css/idf_quiz.css",
+		"/Users/Kristie/Documents/ROOT FOLDERS/IDF_Codes/.gitignore",
+		"/Users/Kristie/Documents/ROOT FOLDERS/IDF_Codes/js/quiz_idf.js",
+		"/Users/Kristie/Documents/ROOT FOLDERS/IDF_Codes/js/quiz.js",
+		"/Users/Kristie/Documents/ROOT FOLDERS/IDF_Codes/quiz.html",
+		"/Users/Kristie/Documents/ROOT FOLDERS/IDF_Codes/js/main.js",
+		"/Users/Kristie/Documents/ROOT FOLDERS/DennisDurfey/images/barnes_and_noble1.jpeg",
+		"/Users/Kristie/Documents/ROOT FOLDERS/DennisDurfey/images/google_icon1.png",
+		"/Users/Kristie/Documents/ROOT FOLDERS/DennisDurfey/images/DSC_5608_8x12_soft.jpg",
+		"/Users/Kristie/Documents/ROOT FOLDERS/DennisDurfey/images/itunes_icon1.png",
+		"/Users/Kristie/Documents/ROOT FOLDERS/DennisDurfey/images/dd.jpg",
+		"/Users/Kristie/Documents/ROOT FOLDERS/DennisDurfey/js/main.js",
+		"/Users/Kristie/Documents/ROOT FOLDERS/IDF_Codes/quiz.css",
+		"/Users/Kristie/Documents/ROOT FOLDERS/IDF_Codes/quiz.js",
+		"/Users/Kristie/Documents/ROOT FOLDERS/IDF_Codes/main.css",
+		"/Users/Kristie/Documents/ROOT FOLDERS/IDF_Codes/main.js",
+		"/Users/Kristie/Documents/ROOT FOLDERS/IDF_Codes/main2.js",
+		"/Users/Kristie/Documents/ROOT FOLDERS/IDF_Codes/background.js",
+		"/Users/Kristie/Documents/ROOT FOLDERS/IDF_Codes/main1.js",
+		"/Users/Kristie/Documents/ROOT FOLDERS/DennisDurfey/css/magi_skeleton.css",
+		"/Users/Kristie/Documents/ROOT FOLDERS/DennisDurfey/css/main.css",
+		"/Users/Kristie/Documents/ROOT FOLDERS/Portfolio_City-Art/readme.md",
+		"/Users/Kristie/Documents/ROOT FOLDERS/Portfolio_City-Art/.gitignore",
+		"/Users/Kristie/Documents/ROOT FOLDERS/Kristie_White_Portfolio/js/main.js",
+		"/Users/Kristie/Documents/ROOT FOLDERS/Kristie_White_Portfolio/js/main2.js",
+		"/Users/Kristie/Documents/ROOT FOLDERS/Kristie_White_Portfolio/main.js",
+		"/Users/Kristie/Documents/ROOT FOLDERS/Kristie_White_Portfolio/index.html",
+		"/Users/Kristie/Documents/ROOT FOLDERS/Kristie_White_Portfolio/psd.html",
+		"/Users/Kristie/Documents/ROOT FOLDERS/Kristie_White_Portfolio/css/psd.css",
+		"/Users/Kristie/Documents/ROOT FOLDERS/Kristie_White_Portfolio/css/main.css",
+		"/Users/Kristie/Documents/ROOT FOLDERS/Kristie_White_Portfolio/css/skeleton.css",
+		"/Users/Kristie/Documents/ROOT FOLDERS/Kristie_White_Portfolio/slider.js",
+		"/Users/Kristie/Documents/ROOT FOLDERS/Kristie_White_Portfolio/images/homeIcon.png",
+		"/Users/Kristie/Documents/ROOT FOLDERS/Kristie_White_Portfolio/images/emailIcon.jpg",
+		"/Users/Kristie/Documents/ROOT FOLDERS/kristiewhitenet/main3.js",
+		"/Users/Kristie/Documents/ROOT FOLDERS/kristiewhitenet/css/main.css",
+		"/Users/Kristie/Documents/ROOT FOLDERS/kristiewhitenet/main.js",
+		"/Users/Kristie/Documents/ROOT FOLDERS/kristiewhitenet/images/linkedIn.html",
+		"/Users/Kristie/TIY-Projects/ptc_app/css/student_teacher.css",
+		"/Users/Kristie/TIY-Projects/ptc_app/classSet.html",
+		"/Users/Kristie/TIY-Projects/ptc_app/css/homework.css",
+		"/Users/Kristie/TIY-Projects/ptc_app/hwteachview.html",
+		"/Users/Kristie/TIY-Projects/ptc_app/student.html",
+		"/Users/Kristie/TIY-Projects/ptc_app/css/waiver.css",
+		"/Users/Kristie/TIY-Projects/ptc_app/css/main.css",
+		"/Users/Kristie/TIY-Projects/ptc_app/FeesListTeacher.html",
+		"/Users/Kristie/TIY-Projects/ptc_app/waiverParent.html",
+		"/Users/Kristie/TIY-Projects/ptc_app/waiverTeacher.html",
+		"/Users/Kristie/TIY-Projects/ptc_app/css/Feeslist.css",
+		"/Users/Kristie/TIY-Projects/ptc_app/css/student.css",
+		"/Users/Kristie/TIY-Projects/ptc_app/feesListParent.html",
+		"/Users/Kristie/TIY-Projects/ptc_app/FeesListDetail.html",
+		"/Users/Kristie/TIY-Projects/ptc_app/css/feesListdetail.css",
+		"/Users/Kristie/TIY-Projects/ptc_app/hwparentview.html",
+		"/Users/Kristie/TIY-Projects/ptc_app/eventsParent.html",
+		"/Users/Kristie/TIY-Projects/ptc_app/css/events.css",
+		"/Users/Kristie/TIY-Projects/ptc_app/Grades.html",
+		"/Users/Kristie/TIY-Projects/ptc_app/homeParent.html",
+		"/Users/Kristie/TIY-Projects/ptc_app/homeTeacher.html",
+		"/Users/Kristie/TIY-Projects/ptc_app/parent.html",
+		"/Users/Kristie/TIY-Projects/ptc_app/parentStudents.html",
+		"/Users/Kristie/TIY-Projects/ptc_app/classes.html",
+		"/Users/Kristie/TIY-Projects/ptc_app/studentProfile.html",
+		"/Users/Kristie/TIY-Projects/ptc_app/eventsTeacher.html",
+		"/Users/Kristie/TIY-Projects/ptc_app/js/students.js",
+		"/Users/Kristie/TIY-Projects/ptc_app/css/Home.css",
+		"/Users/Kristie/TIY-Projects/ptc_app/js/studentsTeacherView.js",
+		"/Users/Kristie/TIY-Projects/ptc_app/css/login.css",
+		"/Users/Kristie/TIY-Projects/ptc_app/index.html",
+		"/Users/Kristie/TIY-Projects/ptc_app/readme.md",
+		"/Users/Kristie/TIY-Projects/ptc_app/css/Twaiver.css",
+		"/Users/Kristie/TIY-Projects/ptc_app/css/teacher.css",
+		"/Users/Kristie/TIY-Projects/ptc_app/css/parent.css",
+		"/Users/Kristie/TIY-Projects/ptc_app/js/hwParentView3.js",
+		"/Users/Kristie/TIY-Projects/ptc_app/css/main2.css",
+		"/Users/Kristie/TIY-Projects/ptc_app/js/appModels/eventsCollection.js",
+		"/Users/Kristie/TIY-Projects/ptc_app/images/greenChalkBoard.jpg",
+		"/Users/Kristie/TIY-Projects/ptc_app/parentHomeworkDetail.html",
+		"/Users/Kristie/TIY-Projects/ptc_app/js/appModels/classesCollection.js",
+		"/Users/Kristie/TIY-Projects/ptc_app/js/appModels/StudentCollection.js",
+		"/Users/Kristie/TIY-Projects/ptc_app/studentsTeacherView.html",
+		"/Users/Kristie/TIY-Projects/ptc_app/js/eventsTeacher.js",
+		"/Users/Kristie/TIY-Projects/ptc_app/teacher.html",
+		"/Users/Kristie/TIY-Projects/ptc_app/js/eventsParent.js",
+		"/Users/Kristie/TIY-Projects/ptc_app/css/homeTeacher2.css",
+		"/Users/Kristie/TIY-Projects/ptc_app/eventsDetailParent.html",
+		"/Users/Kristie/TIY-Projects/ptc_app/js/login.js",
+		"/Users/Kristie/TIY-Projects/ptc_app/js/classes.js",
+		"/Users/Kristie/TIY-Projects/ptc_app/js/models/StudentCollection.js",
+		"/Users/Kristie/TIY-Projects/ptc_app/js/hwParentView.js",
+		"/Users/Kristie/TIY-Projects/ptc_app/js/hwParentView2.js",
+		"/Users/Kristie/TIY-Projects/ptc_app/discard.html",
+		"/Users/Kristie/TIY-Projects/ptc_app/js/Teacher.js",
+		"/Users/Kristie/TIY-Projects/ptc_app/js/parent.js",
+		"/Users/Kristie/TIY-Projects/ptc_app/css/PayFeesT.css",
+		"/Users/Kristie/TIY-Projects/ptc_app/css/grades.css",
+		"/Users/Kristie/TIY-Projects/ptc_app/js/events.js",
+		"/Users/Kristie/TIY-Projects/ptc_app/eventsDetailTeacher.html",
+		"/Users/Kristie/TIY-Projects/ptc_app/studentsParentView.html",
+		"/Users/Kristie/TIY-Projects/ptc_app/js/hwteachview.js",
+		"/Users/Kristie/TIY-Projects/ptc_app/HomeworkDetailParent.html",
+		"/Users/Kristie/TIY-Projects/ptc_app/helloSign.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"&#10033",
+			"&nbsp;;",
+			"&nbsp",
+			"  \n",
+			"&nbsp;;",
+			"&nbsp",
+			"&nbsp;;",
+			"&nbsp",
+			"header",
+			"h3",
+			"h6",
+			"font-type",
+			"20",
+			"5",
+			"favicon",
+			"api",
+			"a ",
+			"margin-top: 10%",
+			"row",
+			"hwParentViewModel",
+			"studentsTeacherDetailDiv",
+			"date",
+			"centerView",
+			"signThisWaiver",
+			"classes",
+			"events",
+			"id",
+			"classes",
+			"uploaded",
+			"setToken",
+			"User",
+			"logged in",
+			"UserParent",
+			".navBar",
+			"router",
+			"#challenge",
+			"container",
+			"5",
+			"currency"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"&#10033;",
+			"&nbsp;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

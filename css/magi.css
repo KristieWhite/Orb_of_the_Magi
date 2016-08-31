@@ -78,7 +78,7 @@ h3 {
 .cursivePurchase a {
 	font-family: 'Seaweed Script', cursive;
 	font-size: 2em;
-	padding: 1em;
+	/*padding: 1em;*/
 	color: #e2cd58;
 }
 .noWrap {
@@ -96,13 +96,24 @@ h3 {
 #footLinks {
 	padding-top: 2em;
 }
+#meet {
+	display: block;
+}
+#contact {
+	color: black;
+}
 
 
 
 /* SHARED QUERIES ARE LOCATED ON SKELETON CSS (headers/footers,etc) */
 /* Larger than mobile */
-@media (min-width: 400px) {
-
+@media (min-width: 375px) {
+	h1 {
+		padding-top: .5em;
+	}
+	#footLinks {
+		padding-top: 1em;
+	}
 }
 
 /* Larger than phablet (also point when grid becomes active) */
