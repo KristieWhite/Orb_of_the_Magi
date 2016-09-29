@@ -42,9 +42,14 @@ h3 {
 }
 /*Purchase icons padding in queries below*/
 .purchaseIcons {
-	width: 60px;
+	/*width: 60px;*/
 	padding: 1em 1em 0 1em;
 }
+#amazonIconStar {width: 70px;}
+#barnesIconStar {width: 63px;}
+#googleIconStar {width: 72px;}
+#iTunesIconStar {width: 77px;}
+
 #darkStarImg {
 	/* width was 90% from last edit. Adjusted pic to even height to div */
 	width: 60%;
