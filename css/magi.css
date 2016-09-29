@@ -75,11 +75,19 @@ h3 {
 #descriptionMoons {
 	padding: 0 2em 0 2em;
 }
-.cursivePurchase a {
-	font-family: 'Seaweed Script', cursive;
-	font-size: 2em;
+.purchaseMoons a {
+	/*width: 100px;*/
+	/*font-family: 'Seaweed Script', cursive;*/
+	/*font-size: 2em;*/
 	/*padding: 1em;*/
-	color: #e2cd58;
+	/*color: #e2cd58;*/
+}
+.purchaseMoonIcons {
+	width: 60px;
+	padding: 1em 1em 0 1em;
+}
+#barnesIconMoon {
+	/*width: 80px;*/
 }
 .noWrap {
 	white-space: nowrap;
